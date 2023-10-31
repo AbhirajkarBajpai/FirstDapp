@@ -9,8 +9,8 @@ module.exports = {
   solidity: "0.8.17",
   networks: {
     sepolia: {
-      url: "https://eth-sepolia.g.alchemy.com/v2/PZX16g98DeGyqNTDq2FXjuF838jjnS7l",
-      accounts: ["c12e2eb5fdbe5a06b88893976f6a29df8e19906adaed09e3a6774a4c0b539e59"],
+      url: "________________________________________________________"
+      accounts: ["%%%667775554443$$$$$$$$$$$$$$$$"],
     },
   },
 };
